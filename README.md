@@ -4,8 +4,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adit-here&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adit-here&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rdtyaandr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rdtyaandr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -50,10 +50,10 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adit-here&repo=your-repo&theme=radical" height="120" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdtyaandr&repo=your-repo&theme=radical" height="120" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adit-here&repo=your-repo&theme=radical" height="120" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdtyaandr&repo=your-repo&theme=radical" height="120" />
   </a>
 </div>
 
@@ -61,7 +61,7 @@
 
 <h2 align="left">⚡ Coding Activity</h2>
 
-![Snake animation](https://github.com/Adit-here/Adit-here/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rdtyaandr/rdtyaandr/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
