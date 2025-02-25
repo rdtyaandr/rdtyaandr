@@ -1,42 +1,64 @@
 # Hi there, I'm Adit! 👋
 
-Welcome to my GitHub profile! I'm a passionate student currently attending a vocational high school (SMK) in Indonesia, with a keen interest in web development and a variety of sports.
+Welcome to my GitHub profile! I'm a passionate student currently attending a vocational high school (SMK) in Indonesia, with a keen interest in web development and a variety of sports. Let's dive into my coding journey!
+
+---
 
 ## About Me
 
 - 🎓 **Education**: Vocational High School (SMK) student in Indonesia.
 - 💻 **Aspiring**: To become a Full Stack Web Developer.
 - 🏃 **Hobbies**:
-  - Volleyball
-  - Soccer
-  - Badminton
-  - Running
+  - Volleyball 🏐
+  - Soccer ⚽
+  - Badminton 🏸
+  - Running 🏃‍♂️
 - 🌐 **Skills**:
-  - HTML5 & CSS3
-  - JavaScript
-  - Basic knowledge of PHP
-  - Familiarity with REST APIs
-  - Experience with Supabase and Flutter
+  - **Frontend**: HTML5, CSS3, JavaScript
+  - **Backend**: Basic PHP, REST APIs
+  - **Tools**: Supabase, Flutter
+
+---
 
 ## Projects
 
 Here are some of the projects I've been working on:
 
-- **Personal Portfolio Website**: A showcase of my projects and skills. [Repository Link](#)
-- **Sports Event Management System**: A web application to manage local sports events. [Repository Link](#)
-- **Online Learning Platform**: A platform to facilitate online education for students. [Repository Link](#)
+- **[Personal Portfolio Website]**: A showcase of my projects and skills. [Repository Link](#)
+- **[Sports Event Management System]**: A web app to organize local sports events. [Repository Link](#)
+- **[Online Learning Platform]**: A platform for students to learn online. [Repository Link](#)
+
+> *More projects coming soon — stay tuned!*
+
+---
 
 ## Goals
 
-- 🎯 **Short-term**: Enhance my coding skills and contribute to open-source projects.
-- 🚀 **Long-term**: Pursue higher education in Computer Science and secure a position as a Full Stack Developer.
+- 🎯 **Short-term**: Boost my coding skills and contribute to open-source projects.
+- 🚀 **Long-term**: Pursue a degree in Computer Science and land a Full Stack Developer role.
+
+---
 
 ## Let's Connect!
 
-- 📧 **Email**: [ganendrapk@gmail.com](mailto:ganendrapk@gmail.com)
-- 💼 **LinkedIn**: [rdtyaandr](#)
-- 🐦 **Twitter**: [@rdtyaandr](#)
+- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 💼 **LinkedIn**: [Your LinkedIn Profile](#)
+- 🐦 **Twitter**: [@your_twitter_handle](#)
 
-Feel free to explore my repositories and provide feedback. I'm always eager to learn and collaborate on exciting projects!
+Feel free to explore my repositories, drop feedback, or collaborate on exciting projects!
 
-![Snake animation](https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
+---
+
+## Contribution Activity
+
+Check out my coding journey visualized with this cool snake animation:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
+---
+
+*Crafted with ❤️ by Adit*
