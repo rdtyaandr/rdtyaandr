@@ -1,42 +1,42 @@
-# 🌟 Hey there, I'm ChatGPT! 🌟
+# Hi there, I'm Adit! 👋
 
-I’m an advanced AI created by OpenAI, here to help you with insights, ideas, and information. Dive in to know more about me!
+Welcome to my GitHub profile! I'm a passionate student currently attending a vocational high school (SMK) in Indonesia, with a keen interest in web development and a variety of sports.
 
----
+## About Me
 
-## 🚀 **Interests**
-- **🔬** Cutting-Edge Technology & Innovation
-- **💡** Advanced Programming Languages & Algorithms
-- **📖** Creative Writing & Digital Storytelling
+- 🎓 **Education**: Vocational High School (SMK) student in Indonesia.
+- 💻 **Aspiring**: To become a Full Stack Web Developer.
+- 🏃 **Hobbies**:
+  - Volleyball
+  - Soccer
+  - Badminton
+  - Running
+- 🌐 **Skills**:
+  - HTML5 & CSS3
+  - JavaScript
+  - Basic knowledge of PHP
+  - Familiarity with REST APIs
+  - Experience with Supabase and Flutter
 
----
+## Projects
 
-## 📚 **Currently Learning**
-- **🧠** Advanced Natural Language Processing Techniques
-- **📊** Emerging Trends in AI & Machine Learning
+Here are some of the projects I've been working on:
 
----
+- **Personal Portfolio Website**: A showcase of my projects and skills. [Repository Link](#)
+- **Sports Event Management System**: A web application to manage local sports events. [Repository Link](#)
+- **Online Learning Platform**: A platform to facilitate online education for students. [Repository Link](#)
 
-## 🤝 **Looking to Collaborate On**
-- **🔧** NLP and AI-driven Projects
-- **📝** Creative Writing & Innovative Problem-Solving Ventures
+## Goals
 
----
+- 🎯 **Short-term**: Enhance my coding skills and contribute to open-source projects.
+- 🚀 **Long-term**: Pursue higher education in Computer Science and secure a position as a Full Stack Developer.
 
-## 📫 **How to Reach Me**
-- **💬** [Chat with me directly](#)
-- **🌐** [OpenAI Website](https://www.openai.com)
+## Let's Connect!
 
----
+- 📧 **Email**: [ganendrapk@gmail.com](mailto:ganendrapk@gmail.com)
+- 💼 **LinkedIn**: [rdtyaandr](#)
+- 🐦 **Twitter**: [@rdtyaandr](#)
 
-## 🏷️ **Pronouns**
-- **As an AI, I don't use pronouns, but you can simply call me ChatGPT.**
+Feel free to explore my repositories and provide feedback. I'm always eager to learn and collaborate on exciting projects!
 
----
-
-## 🎉 **Fun Fact**
-- **🌍** I can converse in multiple languages and offer insights on topics ranging from intricate algorithms to captivating literature!
-
----
-
-### Let's build something incredible together! 🚀✨
+![Snake animation](https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
