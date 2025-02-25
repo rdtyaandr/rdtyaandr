@@ -18,7 +18,6 @@
 <!-- Stats -->
 <h2 align="center">📊 My GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdtyaandr&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdtyaandr&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdtyaandr&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> <br/>
 </div>
@@ -57,46 +56,9 @@
 
 ---
 
-<!-- Featured Projects -->
-<h2 align="center">🔥 Featured Projects</h2>
-<div align="center">
-  <a href="https://github.com/rdtyaandr/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdtyaandr&repo=project-1&theme=aura&hide_border=true" width="45%" alt="Project 1" />
-  </a>
-  <a href="https://github.com/rdtyaandr/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdtyaandr&repo=project-2&theme=aura&hide_border=true" width="45%" alt="Project 2" />
-  </a>
-</div>
+## 🌐 Connect with Me 🍬
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/technologyhell) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6ME9TDt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/technologyhell) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishsinghslg) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/technologyhell) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/technologyhell) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technologyhell) 
 
----
-
-<!-- Social Connections -->
-<h2 align="center">🌐 Connect with Me 🍬</h2>
-<div align="center">
-  <a href="mailto:adit@example.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/aditya-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/adit_tweet">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/adit_insta">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://tiktok.com/@adit_tiktok">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://facebook.com/adit_fb">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://youtube.com/@adit_youtube">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://discord.com/users/adit_discord">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </div>
 
 ---
@@ -113,12 +75,5 @@
 
 ---
 
-<!-- Visit Counter -->
-<h2 align="center">👀 Visitors</h2>
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rdtyaandr&icon=0&color=9" alt="Visit Counter" />
-</div>
-
----
 
 <p align="center">🌟 "Code is poetry, keep writing your story."</p>
