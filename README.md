@@ -1,64 +1,68 @@
-# Hi there, I'm Adit! 👋
+<h1 align="center">Hi 👋! I'm Adit from Indonesia</h1>
+<h3 align="center">A passionate future Full Stack Developer 🚀</h3>
 
-Welcome to my GitHub profile! I'm a passionate student currently attending a vocational high school (SMK) in Indonesia, with a keen interest in web development and a variety of sports. Let's dive into my coding journey!
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adit-here&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adit-here&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-## About Me
+###
 
-- 🎓 **Education**: Vocational High School (SMK) student in Indonesia.
-- 💻 **Aspiring**: To become a Full Stack Web Developer.
-- 🏃 **Hobbies**:
-  - Volleyball 🏐
-  - Soccer ⚽
-  - Badminton 🏸
-  - Running 🏃‍♂️
-- 🌐 **Skills**:
-  - **Frontend**: HTML5, CSS3, JavaScript
-  - **Backend**: Basic PHP, REST APIs
-  - **Tools**: Supabase, Flutter
+<img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
----
+###
 
-## Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+</div>
 
-Here are some of the projects I've been working on:
+###
 
-- **[Personal Portfolio Website]**: A showcase of my projects and skills. [Repository Link](#)
-- **[Sports Event Management System]**: A web app to organize local sports events. [Repository Link](#)
-- **[Online Learning Platform]**: A platform for students to learn online. [Repository Link](#)
+<br>
 
-> *More projects coming soon — stay tuned!*
+<div align="center">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+</div>
 
----
+###
 
-## Goals
+<br>
 
-- 🎯 **Short-term**: Boost my coding skills and contribute to open-source projects.
-- 🚀 **Long-term**: Pursue a degree in Computer Science and land a Full Stack Developer role.
+<h2 align="left">🔥 Featured Projects</h2>
 
----
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adit-here&repo=your-repo&theme=radical" height="120" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adit-here&repo=your-repo&theme=radical" height="120" />
+  </a>
+</div>
 
-## Let's Connect!
+###
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](#)
-- 🐦 **Twitter**: [@your_twitter_handle](#)
+<h2 align="left">⚡ Coding Activity</h2>
 
-Feel free to explore my repositories, drop feedback, or collaborate on exciting projects!
+![Snake animation](https://github.com/Adit-here/Adit-here/blob/output/github-contribution-grid-snake.svg)
 
----
+###
 
-## Contribution Activity
-
-Check out my coding journey visualized with this cool snake animation:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-
----
-
-*Crafted with ❤️ by Adit*
+<p align="center">🌟 "Stay hungry, stay foolish" - Steve Jobs</p>
